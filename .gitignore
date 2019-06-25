@@ -1,0 +1,48 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+#/[Bb]uilds/
+/Assets/AssetStoreTools*
+sysinfo.txt
+*.pidb.meta
+
+# ===================================== #
+# VS/Rider/MD/Consulo generated #
+# ===================================== #
+ExportedObj/
+obj/
+.consulo/
+.idea/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmp
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Builds
+#*.apk
+*.unitypackage
+*.app
+#*.exe
