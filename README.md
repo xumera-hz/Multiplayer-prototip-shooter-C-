@@ -24,3 +24,5 @@
 * UDP библиотека https://github.com/RevenantX/LiteNetLib
 * Бесплатный контент из assetstore от Unity
 * Интернет ( интерфейс )
+
+В папке Builds есть 2 билда для Windows и Android
